@@ -47,7 +47,7 @@ fun NewsStory(){
             style = typography.body2)
         Text("LaLaLa!!! I am so happy! yep!",
             style = typography.button)
-
+        Text("aa")
     }
 }
 
